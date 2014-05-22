@@ -1,4 +1,4 @@
-This is the first memo about golemMol project. 
+This is the first memo about MolGolem project. 
 
 The initiative of this project is a robust and project-oriented set of python tools to help handle 
 
